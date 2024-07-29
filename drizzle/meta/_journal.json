@@ -15,6 +15,13 @@
       "when": 1722205004565,
       "tag": "0001_worried_the_executioner",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1722291098536,
+      "tag": "0002_bumpy_blazing_skull",
+      "breakpoints": true
     }
   ]
 }
